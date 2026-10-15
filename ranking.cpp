@@ -9,7 +9,7 @@
 
 using namespace std;
 
-// Store information about a document
+// Store informat ion about a document
 struct Document
 {
     int id;
